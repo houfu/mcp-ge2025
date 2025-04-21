@@ -3,4 +3,6 @@ name = "mcp-ge2025"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "mcp[cli]>=1.6.0",
+]
