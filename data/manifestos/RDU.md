@@ -1,20 +1,6 @@
-FIRST
+## FIRST CLASS FAIRER SINGAPORE
 
-CLASS
-
-FAIRER
-
-SITGAPORE
-
-<!-- image -->
-
-K
-
-## "IT IS TIME FOR A NEW SOCIAL CONTRACT -ONE THAT RESTORES DIGNITY AND PRIDE TO EVERY SINGAPOREAN."
-
-<!-- image -->
-
-<!-- image -->
+"IT IS TIME FOR A NEW SOCIAL CONTRACT -ONE THAT RESTORES DIGNITY AND PRIDE TO EVERY SINGAPOREAN."
 
 ## A FAIRER SINGAPORE WITH HEART
 
@@ -32,48 +18,6 @@ This is not just a call for policy changes; it is a call to rethink the kind of 
 
 Together, we can build a Singapore where every citizen feels valued, every voice matters, and no one  is  left  behind.  Join  us  in  shaping  a  future that  works  for  all  Singaporeans-a  future  with H.E.A.R.T. at its core.
 
-Rethinking our Singapore 03
-
-Our Commitment 04
-
-The RDU Guarantee 05
-
-A New Social Contract 06
-
-Collective Prosperity 08
-
-Citizen's Dividend 10
-
-12
-
-Comprehensive Housing Reset
-
-14
-
-Caring Healthcare
-
-Civil Freedom 16
-
-Your Voice Matters 17
-
-Vote for the Compass 19
-
-Connect with Us 20
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 ## RETHINKING OUR SINGAPORE
 
 For Singapore to truly be a nation where opportunity is for all and not just a privileged few, we must first recognise that our social contract  is  fraying.  The  aspirations  of  the  past-the  promise  of prosperity  and  opportunity-feel  increasingly  out  of  reach  for many Singaporeans.
@@ -88,41 +32,36 @@ We can build a Singapore where prosperity is shared, where every  HDB  flat  own
 
 This is not just about policies; it is about rethinking the kind of society we want to be. It is time for a new social contract-one that ensures that opportunity is not a privilege for the few, but a promise to all. A Singapore where every citizen-regardless of  class-can  thrive  is  not  a  dream;  it  is  a  commitment  we must make. A fairer Singapore is one where being a first-Class citizen  is  not  reserved  for  the  super  wealthy,  but  for  every Singaporean who calls this nation home.
 
-04
-
 ## OUR COMMITMENT
 
-## A NEW SOCIAL CONTRACT CENTRED ON H.E.A.R.T. FOR SINGAPORE
+A NEW SOCIAL CONTRACT CENTRED ON H.E.A.R.T. FOR SINGAPORE
 
-## Housing
+### Housing
 
 Every  Singaporean  has  a  secure  home-a home that retains its value and serves as a foundation for stability and belonging.
 
-## Equitable Healthcare
+### Equitable Healthcare
 
 Access to quality healthcare is not limited by income, ensuring that no one skips essential care because of cost.
 
-## Assured Prosperity
+### Assured Prosperity
 
 Economic  policies  work  for  the  many,  not just the privileged few, by providing fair wages, secure jobs, and opportunities for all.
 
-## Resilient Economy
+### Resilient Economy
 
 A sustainable future, where growth is aligned with protecting the environment and tackling the climate crisis.
 
-## Transparency
+### Transparency
 
 A society that empowers its people through openness, accountability, and the freedom to shape their own future.
 
 This  is  not  just  about  policies.  It  is  about rethinking the kind of society we want to be-a society built on H.E.A.R.T.: secure Homes, Equitable  healthcare,  Assured  prosperity,  a Resilient economy, and Transparency in governance.
 
-Singapore can be a place where every citizenregardless of background-has the opportunity to thrive, where  prosperity is shared, and where no one is left behind.
+Singapore can be a place where every citizen regardless of background-has the opportunity to thrive, where  prosperity is shared, and where no one is left behind.
 
-<!-- image -->
 
 ## THE RED DOT UNITED GUARANTEE
-
-<!-- image -->
 
 Red  Dot  United  promises  to  serve  the residents of Nee Soon GRC, Jurong EastBukit Batok  GRC,  Holland-Bukit  Timah GRC, and Jurong Central SMC with dedication for the full elected term. We will be  the  voice  of  voters  who  elect  us  to Parliament. In Parliament, RDU will speak up  and  consistently  hold  all  policies  and elected officials accountable to the values of  our  Singapore  pledge.  We  promise  to run  your  Town  Councils  efficiently  and prudently, ensuring that all processes are transparent and that all responsibilities are fulfilled.
 
@@ -130,11 +69,8 @@ Red  Dot  United  promises  to  serve  the residents of Nee Soon GRC, Jurong Eas
 
 Vote for Red Dot United's candidates to make a clarion call for a Singapore with  H.E.A.R.T.-where prosperity  is shared, dignity is  upheld,  and  every Singaporean  is  valued  as  first-class in their own home.
 
-<!-- image -->
-
 Ravi Philemon Secretary-General, Red Dot United
 
-<!-- image -->
 
 ## A NEW SOCIAL CONTRACT FOR SINGAPORE
 
@@ -149,11 +85,6 @@ These new 5Cs, while providing immediate relief, lack the tangibility and hope t
 While  well-intentioned,  such  policies  raise important questions: Is this the future we want for Singapore? Should Singaporeans, once known for their entrepreneurial
 spirit, now rely on handouts for basic necessities?
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 ## IT  IS  TIME  FOR  A  NEW  SOCIAL  CONTRACT-ONE  THAT  RESTORES DIGNITY  AND  PRIDE  TO  EVERY  SINGAPOREAN,  ANCHORED  ON  A REIMAGINED SET OF 5CS FOR THE FUTURE:
 
@@ -179,8 +110,6 @@ Key Issues:
 
 Rising Cost of Living, Widening Inequality
 
-<!-- image -->
-
 ## Rising cost of living
 
 While inflation has shown signs of easing, the GST increase to 9% in 2024  continues  to  exert  financial pressure  on  lowerand  middleincome families. The GST Voucher scheme  provides  some  relief  but does not fully offset the increased burden,  especially  for  the  poorest households,  as  it  is time-limited and fails to account for the broader rise in living costs.
@@ -192,8 +121,6 @@ Real wage growth was minimal in 2022  and  2023.  In  2024,  wage increases have
 ## Working class left behind
 
 The working class is left behind. Economic insecurity is rising, and many Singaporeans struggle to afford their basic needs despite working long hours.
-
-<!-- image -->
 
 ## OUR COMMITMENT
 
@@ -223,8 +150,6 @@ The  role  of  the  Singapore  government  must  be  to  protect  our  people fr
 
 Rising Economic Insecurity, the Need for a Reliable Income Floor
 
-<!-- image -->
-
 ## Massive global workforce disruptions
 
 The unprecedented oversupply of workers worldwide will lead to intense competition  for  jobs,  which  will  drive wages down and push many workers into unstable, low-paying, or informal work.
@@ -233,11 +158,9 @@ The unprecedented oversupply of workers worldwide will lead to intense competiti
 
 Economic uncertainty, financial stress and job insecurity take a huge toll on mental well-being and undermine social cohesion.
 
-<!-- image -->
-
 ## Growing inequality &amp; financial strain
 
-Singaporeans who are in lowerincome brackets already struggle with financial insecurity. Without proactive measures, the income gap will widen as global economic pressures mount.
+Singaporeans who are in lower income brackets already struggle with financial insecurity. Without proactive measures, the income gap will widen as global economic pressures mount.
 
 ## Existing safety nets are insufficient
 
@@ -265,8 +188,6 @@ By  distributing  wealth  more  equitably,  the  Citizens  Dividend  creates  a 
 
 The coming decade demands bold solutions to prepare Singapore for this global upheaval. The Citizens Dividend is not just a policy-it is a necessity. It  positions  Singapore  as  a  resilient  nation  that  protects  its  people  while building a future where every Singaporean can thrive in an uncertain world.
 
-<!-- image -->
-
 ## COMPREHENSIVE HOUSING RESET
 
 Housing is the foundation of Singapore’s social compact, yet many Singaporeans are paying top dollar for homes that will eventually depreciate to zero-dollar value when their 99-year leases expire. HDB resale prices surged 9.6% in 2024, nearly double the 4.9% increase in 2023, yet homeowners face the reality that their biggest asset will eventually become worthless. The lack of long-term security, coupled with rising prices, has made homeownership a growing  financial burden rather than a source of stability.
@@ -285,8 +206,6 @@ Foreign  investment  in  high-end  property  skews  the market,  pushing  up  pr
 
 Housing is the foundation of Singapore's social  compact,  yet  many  Singaporeans are  paying  top  dollar  for  homes  that  will eventually depreciate to zero-dollar value when  their  99-year  leases  expire.  HDB resale prices surged 9.6% in 2024, nearly double  the  4.9%  increase  in  2023,  yet homeowners  face  the  reality  that  their biggest asset will eventually become worthless. The lack of long-term security, coupled  with rising prices, has  made homeownership a growing financial burden rather than a source of stability.
 
-<!-- image -->
-
 ## Rising prices are making it harder for young Singaporeans to own homes
 
 While many Singaporeans upgrade or downsize as their needs change, escalating housing costs make these  transitions  more  difficult,  especially  for  firsttime homeowners.
@@ -294,12 +213,6 @@ While many Singaporeans upgrade or downsize as their needs change, escalating ho
 ## A lack of housing options forces lower-income Singaporeans into rental cycles
 
 Currently, the bottom 20% of income earners struggle  with  homeownership  as  they  have  limited pathways. Without intervention, they are locked out of property ownership, further deepening inequality.
-
-12
-
-<!-- image -->
-
-<!-- image -->
 
 ## OUR COMMITMENT
 
@@ -339,8 +252,6 @@ The  current  system  prioritises  savings  over  social  protection, forcing in
 
 Rising healthcare costs are forcing Singaporeans to skip specialist  appointments,  while  many  older  patients  struggle  to afford  essential  medications,  often  skipping  doses  due  to  cost. Despite talk of 'value-based healthcare' and 'co-payment responsibility,'  out-of-pocket  expenses  continue  to  rise,  making timely treatment unaffordable for many. This burden discourages early  care,  worsening  health  outcomes  and  disproportionately affecting  lower-  and  middle-income  families.  Healthcare  reform must put people before cost-controls.
 
-<!-- image -->
-
 ## OUR COMMITMENT
 
 ## Rebalance the 3M framework
@@ -358,8 +269,6 @@ To  function  as  a  supplementary  fund  rather  than  the  primary  means  of 
 ## Ensure healthcare affordability
 
 Do so by capping out-of-pocket expenses and introducing fairer subsidies.
-
-<!-- image -->
 
 ## CIVIL FREEDOM
 
@@ -389,8 +298,6 @@ Ensure  that  these  laws  serve  public interest rather than political control.
 
 An open society is a stronger society.
 
-<!-- image -->
-
 ## BUILDING A FAIRER SINGAPORE TOGETHER
 
 Singapore  stands  at  a  crossroads.  In  this  pivotal moment, the choices we make will define the kind of society we leave for future generations. Red Dot United believes in a Singapore where every citizen has the opportunity to thrive, where fairness prevails,  and  where  no  one  is  left  behind.  We know the challenges are vast, but we are steadfast in  our  belief  that  by  working  together,  we  can shape  a  brighter,  greener,  more  inclusive  and more sustainable future.
@@ -402,28 +309,6 @@ This manifesto is not just a list of policies. It  is  a call to action.  It is 
 Change begins with you. If you share our vision of a Singapore with H.E.A.R.T.-where Housing, Equitable healthcare, Accessible prosperity, Resilience, and Transparency form the pillars of a fairer  nation-we  urge  you  to  take  the  next  step. Support  us  in  our  mission  to  make  Singapore  a place where every citizen is treated as first-class.
 
 Together,  we  can  make  sure  that Singapore remains not just a city of  excellence,  but  a  home  for  all. Let's make history, hand in hand.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 ## THE RDU PLEDGE
 
@@ -439,28 +324,12 @@ This is how  we  believe  that Singaporean politics  and  people  can  keep  ahe
 
 ## VOTE FOR THE COMPASS
 
-<!-- image -->
-
 The compass represents safety as those on a journey  rely  on  it  to  point  them  in  the  right direction, navigating tumultuous seas and unfamiliar  ground.  Just  as  a  compass  does, RDU  will  strive  to  consistently  point  towards the principles and values which must be present in the decision-making process of the government and country.
-
-<!-- image -->
 
 To learn more about our work, our candidates, join our initiatives, or share your thoughts, connect with us at reddotunited.sg.
 
-<!-- image -->
-
 @reddotunitedsg
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 FIRST CLASS CITIZENS, FAIRER SINGAPORE
 
 WARGA KELAS PERTAMA, SINGAPURA YANG LEBIH ADIL 头等公⺠，更公平的新加坡 ததரமானமக , நயாயமானசக
-
-<!-- image -->

@@ -23,8 +23,6 @@ Kemajuan Untuk Semua
 | Education                      |  50 |
 | Governance                     |  61 |
 
-<!-- image -->
-
 ## Dear fellow Singaporeans,
 
 Your  vote  is  critical  in  this  election.  It  will  decide whether we continue to have credible and responsible elected  Opposition  MPs  who  keep  the  PAP  in  check and hold the PAP to account in a constructive way.
@@ -35,8 +33,6 @@ If  only  20,000  voters  voted  differently  last  time,  the PAP would have wo
 
 Elected  Progress  Singapore  Party  MPs  will  always speak up fearlessly for you in Parliament.
 
-<!-- image -->
-
 Give us a chance to work together with you to find the best way forward for Singapore.
 
 We  will  fight  to  build  a  more  compassionate  and kinder Singapore.
@@ -45,13 +41,7 @@ Vote for Progress For All.
 
 Vote for the Progress Singapore Party.
 
-<!-- image -->
-
-Tan Cheng Bock Chairman
-
-Progress Singapore Party
-
-<!-- image -->
+Tan Cheng Bock Chairman Progress Singapore Party
 
 ## Dear fellow Singaporeans,
 
@@ -63,41 +53,24 @@ We hope that these policy debates have helped you gain a better understanding of
 
 PSP believes that our ideas can help bring Singapore back  on  the  right  track  and  allow  Singaporeans  to enjoy better lives and livelihoods.
 
-<!-- image -->
-
 PSP envisions a Singapore where all Singaporeans, regardless of race, language, or religion, can enjoy progress together.
 
 Vote for Progress For All this General Election.
 
-<!-- image -->
-
 Leong Mun Wai Secretary-General Progress Singapore Party
 
-<!-- image -->
 
-## Executive Summary
+# Executive Summary
 
-## What we stand for:
+What we stand for:
 
-## Building a fair society:
+Building a fair society: We  believe  that  we  should  build  a  society  that  better  balances social and economic considerations. Public policies should not just be  driven  by  economic  concerns,  but  must  also  consider  social objectives. We will make sure that the benefits of economic growth are distributed equitably among all Singaporeans and everyone gets to see improvements in their daily lives as the economy grows.
 
-We  believe  that  we  should  build  a  society  that  better  balances social and economic considerations. Public policies should not just be  driven  by  economic  concerns,  but  must  also  consider  social objectives. We will make sure that the benefits of economic growth are distributed equitably among all Singaporeans and everyone gets to see improvements in their daily lives as the economy grows.
+Living with dignity: We believe that anyone who works hard should be able to live with dignity. Public housing and healthcare should be affordable for all Singaporeans.  The  social  safety  net  should  be  strengthened  and made  easier  to  navigate  so  that  all  Singaporeans  can  enjoy  a dignified standard of living.
 
-## Living with dignity:
+More pathways to success in education: We believe that our education system should provide multiple paths to success, so Singaporeans can achieve their fullest potential in the way  that  suits  them  best.  Embracing  diversity  in  education  will better prepare Singaporeans  for a future society that values creativity and social skills that cannot be replicated by machines.
 
-We believe that anyone who works hard should be able to live with dignity. Public housing and healthcare should be affordable for all Singaporeans.  The  social  safety  net  should  be  strengthened  and made  easier  to  navigate  so  that  all  Singaporeans  can  enjoy  a dignified standard of living.
-
-## More pathways to success in education:
-
-We believe that our education system should provide multiple paths to success, so Singaporeans can achieve their fullest potential in the way  that  suits  them  best.  Embracing  diversity  in  education  will better prepare Singaporeans  for a future society that values creativity and social skills that cannot be replicated by machines.
-
-## Strengthening democracy and political institutions:
-
-We believe that Singaporeans should be able to freely discuss and debate their views to make Singapore a better place. We must build a strong system of checks and balances within our political institutions to prevent abuse of power and ensure that Singaporeans continue to play a vital part in nation building.
-
-7
-
-<!-- image -->
+Strengthening democracy and political institutions: We believe that Singaporeans should be able to freely discuss and debate their views to make Singapore a better place. We must build a strong system of checks and balances within our political institutions to prevent abuse of power and ensure that Singaporeans continue to play a vital part in nation building.
 
 ## COST OF LIVING
 
@@ -109,8 +82,6 @@ Rising  prices  in  housing  and  transport  have  further  added  to  the burde
 
 On the other hand, wages have barely kept pace with the relentless increase in prices. The median gross monthly income from employment  (including  employer  CPF  contributions)  of  full-time employed residents increased 21% from 2020 to 2024, from $4,534 to $5,500. This is far lower than the increase in HDB resale flat prices or Category A COE prices, and only slightly more than the increase in  hawker  food  and  public  transport  prices.  It  is  no  wonder  that Singaporeans are finding it difficult to keep up with the rising cost of living.
 
-<!-- image -->
-
 The  PAP  Government  has  often  blamed  global  conditions  and external  events,  such  as  the  war  in  Ukraine  or  the  post-Covid realignment of the global supply chain, for the rising cost of living in Singapore. It has also touted its many  measures  to support Singaporeans, such as the tightening of monetary policy, enhancements to the Assurance Package, and various other initiatives to help Singaporeans save costs.
 
 While many countries around the world have seen a post-pandemic increase  in  inflation,  Singapore's  economic  model,  championed  by the PAP Government, has also had a role to play in driving inflation.
@@ -120,8 +91,6 @@ One of the key drivers of inflation in Singapore is rising land costs and proper
 The PSP understands the pain that Singaporeans feel over the rising cost  of  living.  Since  2020,  we  have  spoken  up  in  Parliament  and proposed solutions to help Singaporeans deal with the rising cost of living in these areas: (i) GST policy, (ii) property prices and rents, (iii) food prices at hawker centres, and (iv) healthcare costs.
 
 Our proposals are summarised in this section.
-
-<!-- image -->
 
 ## (1) Reduce GST to 7%
 
@@ -135,8 +104,6 @@ The increase in GST from 7% to 9% when Singapore was facing high inflation  and 
 
 Singapore's fiscal position is strong. We estimate that our country has approximately  $1.2  trillion  of  financial  reserves,  which  is  equal  to  12 times the Government's annual expenditure. In other words, even if the Government were to stop collecting revenue entirely and relied solely on reserves, our reserves will be enough to sustain the Government's operations  for  12  years.  In  comparison,  an  OCBC  survey  in  2023 showed that more than half of Singaporeans have savings of less than 6 months' salary.
 
-<!-- image -->
-
 Our reserves are still growing every year. We are also generating higher and higher investment returns from the reserves each year. In fiscal year 2023,  the  investment  returns  from  the  reserves  amounted  to  $47 billion.
 
 We  are  heartened  that  Prime  Minister  Lawrence  Wong  stated  in Parliament in 2024 that there is no need for further GST increases up to 2030. He made this commitment in response to questions in Parliament by the PSP. However, we believe that Singapore's strong fiscal position puts  us  in  a  sufficiently  strong  position  to  reverse  the  GST  hike  and reduce GST to 7%.
@@ -146,8 +113,6 @@ We  are  heartened  that  Prime  Minister  Lawrence  Wong  stated  in Parliament
 In 2022, we called on the Government to exempt basic essential goods from GST, and we repeat this call today. Such essential goods should include water, rice, eggs, cooking oil, wheat flour, and formula milk.
 
 We  propose  setting  price  thresholds  on  basic  essentials  that  are exempted from GST. For example, rice that sells for under $2 per kg can be exempted from GST, while rice that sells for above $2 per kg will not be exempted from GST. This will reduce the likelihood of the wealthy  taking  advantage  of  and  benefiting  from  GST  exemptions, because the wealthy are less likely to purchase the cheapest versions of essential items.
-
-<!-- image -->
 
 ## (3) Defer land cost for HDB flats
 
@@ -160,8 +125,6 @@ We do not agree with the current arrangement, as taxpayers and flat buyers  are 
 We believe that owner-occupied public housing is a public good that should  be  treated  as  essential  public  infrastructure,  like  schools  and hospitals,  where  land  costs  are  not  charged  because  it  is  treated  as State  Land.  We  believe  that  land  used  for  owner-occupied  HDB  flats should be treated in the same way as schools and hospitals.
 
 HDB flat buyers only lease their flats from the State for 99 years. At the end of the 99-year lease, the flat must be returned to the State at zero value.  Singaporeans  who  lease  their  flats  for  owner-occupation  and who never sell their flats on the resale market should not have to pay for  the  land  cost.  Only  those  who  subsequently  sell  their  flats  on  the resale market, and thus derive financial benefits, should pay land cost.
-
-<!-- image -->
 
 ## (4) Review use of land sales proceeds in the Budget
 
@@ -186,8 +149,6 @@ Assumptions:
 | Year 3 | 100       |                   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |     |     | 5   |
 | Total  |           | 5                 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 | 100 | 100 |
 
-<!-- image -->
-
 Before the land sales proceeds are drawn on as revenue, they should be invested as part of the Past Reserves so that they can continue to generate returns.
 
 This  proposal  would provide a cumulative revenue stream that would eventually build up to a significant alternative source of revenue for the Government.  It  is  a  sensible  approach  that  does  not  compromise  on financial prudence,  because  Singapore  no  longer  sells  land  on  a freehold basis.  It  is  not  necessary  for  the  Government  to  lock  up  the proceeds  of  land  sales  because  State  Land  will  not  be  forever  gone once sold.
@@ -200,8 +161,6 @@ In  November 2023, the PSP proposed that the Fair Tenancy Industry Committee (FT
 
 Rent is a major cost component for businesses, especially those in the retail and F&amp;B sectors. Excessive rent increases can impact the viability of  small  businesses  and  lead  to  a  rise  in  the  general  cost  of  living. Issuing national guidelines for annual rent increases would help to set landlords'  expectations,  and  help  tenants  in  negotiating  for  more moderate  rent  increases.  It  will  also  ensure  that  rent  increases  align with  long-term  economic  growth  and  do  not  undermine  Singapore's social and economic development.
 
-<!-- image -->
-
 ## (6)  Setting  the  rent  of  hawker  stalls  at  $500  or  3%  of gross revenue, instead of setting rent at the highest bid by tender
 
 The  PSP  proposes  that  the  model  of  setting  hawker  stall  rents  by tender be replaced with a new model, where all hawker stalls will be charged  a  monthly  base  rent  of  $500  or  3%  of  gross  turnover, whichever is higher.
@@ -210,9 +169,6 @@ We  believe  that  rents  are  likely  to  be  lower  under  our  proposed model
 
 Additionally, lower rents for stalls in hawker centres may have a ripple effect  on  rents  in  private  coffeeshops  and  food  courts.  This  will  be especially  beneficial  for  residents  in  newer  HDB  towns  that  rely  more heavily on coffeeshops and food courts for affordable food.
 
-<!-- image -->
-
-<!-- image -->
 
 ## (7) Phase out Socially-conscious Enterprise Hawker Centres  and  centralise  the  management  of  all  hawker centres in Singapore under a Government agency
 
@@ -224,7 +180,6 @@ Since SEHCs were introduced in 2012, we have seen multiple conflicts between haw
 
 Hence, we propose that SEHCs should be phased out.
 
-<!-- image -->
 
 ## (8) Government-funded food discounts for Pioneer Generation, Merdeka Generation and CHAS cardholders at all hawker centres and more CDC vouchers for lowerincome households
 
@@ -236,7 +191,6 @@ Since  2018,  the  Ministry  of  National  Development  and  HDB  have introduce
 
 We believe that the way budget meals are currently funded places an unfair  burden  on  hawkers,  many  of  whom  are  lower-income  workers. Our  proposals  will  ensure  that  hawkers  do  not  bear  the  burden  of funding budget meals for consumers, and ensure that all Singaporeans from vulnerable groups can access affordable food, regardless of where they live in Singapore.
 
-<!-- image -->
 
 ## (9) The Government should pay the MediShield Life and CareShield Life premiums for all Singaporeans
 
@@ -252,7 +206,6 @@ Most  mothers  in  Singapore,  regardless  of  race,  practice  confinement afte
 
 To  help  mothers  defray  the  costs  of  confinement  care,  the  PSP proposes a new $3,000 HealthierMother cash gift, paid to every mother upon the birth of each Singapore Citizen child.
 
-<!-- image -->
 
 ## (11) Lower healthcare costs by centralising drug procurement for public and private health facilities
 
@@ -264,9 +217,6 @@ With  rising  inflation,  it  is  important  for  us  to  contain  drug  costs. 
 
 These are the proposals that the PSP has pushed in Parliament since 2020. If we are voted into Parliament, we will continue to push for more measures to contain the rising cost of living.
 
-<!-- image -->
-
-<!-- image -->
 
 ## HOUSING
 
@@ -278,8 +228,6 @@ Even though the prices of BTO flats have been delinked from the prices of resale
 
 Even though resale flat prices are rising, the Government keeps the prices of BTO flats affordable by selling them below market prices and offering buyers additional HDB grants to further lower prices. In doing so, HDB makes a loss, which must be covered by a grant from the  Government.  As  the  gap  between  BTO  and  resale  flat  prices widens, HDB will make bigger losses if it keeps BTO prices stable. The Government must then provide HDB with an increasingly larger grant from the Budget, which is paid for either by raising taxes or cutting spending in other areas.
 
-<!-- image -->
-
 We are  thus  trapped  in  this  cycle:  land  prices  rise,  HDB  provides more  subsidies,  the  Government's  grant  to  HDB  becomes  larger, and taxes must be increased or spending cut elsewhere to foot the bill for rising housing subsidies.
 
 The PSP believes that this system is neither desirable nor sustainable.
@@ -290,15 +238,11 @@ Another major housing concern among Singaporeans is lease decay. This is especia
 
 For many Singaporeans, the HDB flat that they live in is their largest financial asset. The potential decrease in the value of HDB flats due to lease decay is likely to have serious implications on the financial well-being and retirement plans of many Singaporeans.
 
-<!-- image -->
-
 The PAP Government has proposed the Voluntary Early Redevelopment Scheme (VERS) to cope with the lease decay issue. However,  it  has  not  announced  any  details,  except  to  make  clear that (1) VERS is not meant to extend diminishing leases for free to 99  years,  (2)  the  compensation  terms  for  VERS  will  not  be  as generous  as  for  the  Selective  En-bloc  Redevelopment  Scheme (SERS), and (3) there are no replacement flats.
 
 In  January  2023  and  February  2025,  the  PSP  called  on  the  PAP Government  to  release  details  on  VERS  to  provide  Singaporeans with  certainty  on  the  lease  decay  issue.  However,  no  details  have been released.  We  will  continue  to  press  the  PAP  Government  to release details on VERS as soon as possible.
 
 We  believe  that  our  public  housing  policies  need  a  fundamental rethink,  rather  than  quick  fixes  and  adjustments  to  policies.  HDB must urgently return to its roots of providing affordable housing for the people, so that Singapore remains a home for all Singaporeans.
-
-<!-- image -->
 
 ## (1)  Affordable  Homes  Scheme:  Allow  Singaporeans  to buy new flats without land cost unless they sell the flats on the resale market
 
@@ -317,8 +261,6 @@ Instead, HDB will sell new flats to Singaporeans for owner-occupation on a 99-ye
 
 Under this system, buyers of AHS flats will not have to pay land cost.
 
-<!-- image -->
-
 Buyers  of  AHS  flats  will  be  able  to  live  in  these  flats  and  pass  them down to their  descendents  based  on  HDB  inheritance  rules.  Because the  'user  price'  of  AHS  flats  will  be  much  lower  than  the  price  of existing BTO flats, Singaporeans will be able to purchase a flat without depleting their CPF  savings, which can then be used for their retirement.
 
 The  AHS  will  sever  the  link  between  housing  prices  and  retirement. Singaporeans will no longer need to worry about flipping their flats or downgrading  to  afford  their  retirement.  The  AHS  flat  can  be  their forever home while they build up their retirement savings in their CPF accounts.
@@ -331,8 +273,6 @@ The AHS will not cause a crash in the resale market for several reasons.
 
 First, the supply of AHS flats will be the same as the supply of BTO flats today, or about 20,000 flats per year, out of more than 1 million flats. Even after five years, AHS flats will make up less than 10% of the total HDB flat supply.
 
-<!-- image -->
-
 Second, AHS flat owners will have to repay the land cost that was not charged when they sell their AHS flats on the resale market. This makes it unlikely that AHS flat owners will sell their flats unless the price is high enough to earn a profit after repaying the land cost. This will support the resale flat market.
 
 Finally,  the  resale  flat  market  will  be  underpinned  by  a  large  pool  of demand from buyers who are ineligible for BTO flats, buyers who want to  live  in  a  specific  location  because  they  want  to  live  near  their parents,  Permanent  Resident  households,  and  buyers  who  want  to upgrade to a larger flat.
@@ -342,8 +282,6 @@ The AHS will not deplete any financial assets previously accumulated in the Past
 The Net Investment Returns Contribution (NIRC) will also increase at a slower rate. However, this is mitigated by the fact that the Government will no longer need to provide a large grant to HDB each year out of the Budget, as HDB will no longer need to provide as many grants to reduce flat  prices  for  buyers  or  pay  land  cost  into  the  Past  Reserves. Thus,  we  believe  that  the  fiscal  impact  on  the  Government's  annual Budget will be neutral.
 
 We believe that slowing down the rate of increase of the NIRC and the financial assets in the Past Reserves are necessary trade-offs to ensure that  Singaporeans  will  always  have  access  to  an  affordable  HDB  flat that they can call home for the rest of their lives without jeopardising their retirement. As a nation, we can and should do this.
-
-<!-- image -->
 
 ## (2) Allow singles to purchase BTO flats (up to 3-room in all estates) and resale flats at age 28
 
@@ -357,8 +295,6 @@ The PSP proposes that HDB build more flats ahead of demand, so that waiting time
 
 HDB can forecast the projected demand for flats based on factors such as  the  marriage  rate,  birth  rate,  and  the  growth  rate  of  new  citizens, and  adjust  the  level  of  new  flat  construction  to  meet  these  needs. Unused state properties, such as former schools, can also be prioritised for redevelopment into new BTO flats.
 
-<!-- image -->
-
 ## (4) Set  up  Millennial  Apartments  Scheme  to  provide greater housing flexibility for young Singaporeans
 
 The  PSP  proposes  to  set  up  a  Millennial  Apartments  Scheme,  where HDB  will  provide  affordable,  high-quality  rental  apartments  in  the Central Business District (CBD) and mature estates for young couples or singles to rent on leases of 2-5 years.
@@ -366,12 +302,6 @@ The  PSP  proposes  to  set  up  a  Millennial  Apartments  Scheme,  where HDB  
 The PSP recognises young Singaporeans' views that the current BTO system forces Singaporeans to decide the direction of the rest of their lives in their 20s. Not everyone is lucky enough to know what they want in  their  20s.  As  society evolves, there is also a growing desire among younger  Singaporeans  to  establish  independent  lives.  The  Millennial Apartments Scheme will meet these needs.
 
 The  Millennial  Apartments  Scheme  will  also  relieve  the  pressure  on couples to rush to secure a flat and provide young Singaporeans with more  choices  to  fulfil  their  aspirations.  It  will  provide  medium-term housing stability for young Singaporeans while they decide on their life plans and longer-term housing needs.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 ## JOBS AND WAGES
 
@@ -383,8 +313,6 @@ Besides ensuring that there are sufficient jobs for Singaporeans, we want  to  e
 
 In  this  section,  PSP  will  lay  out  our  proposals  to  recalibrate  our policies towards  foreign manpower  and  improve  the  work-life balance of Singaporean workers.
 
-<!-- image -->
-
 ## (1)  Implement  a  Minimum  Living  Wage  of  $2,250  per month
 
 The PSP proposes a Minimum Living Wage of $2,250 per month for all resident  Singaporean  workers.  After  CPF  contributions,  workers  will enjoy a take-home salary of $1,800 per month.
@@ -394,8 +322,6 @@ We  believe  that  a  Minimum  Living  Wage  of  $2,250  per  month  will provid
 We further believe that a Minimum Living Wage of $2,250 per month will also enable all workers to meet their basic living needs with dignity. There  are  many  lower-income  Singaporeans  who  cannot  make  ends meet without relying on Government subsidies in many aspects of life and a patchwork of social support schemes.
 
 A Minimum Living Wage of $2,250 per month would mean that lowerincome Singaporeans will not have to rely on various schemes such as the Workfare Income Supplement, GST Voucher, U-Save rebates, CDC Vouchers,  and  Progressive  Wage  Credits  in  order  to  survive.  We believe that this is the right thing to do for Singapore and Singaporean workers.
-
-<!-- image -->
 
 ## (2) Strengthen  the  Fair  Consideration  Framework  to provide greater job priority for Singaporeans
 
@@ -407,8 +333,6 @@ Thus, we propose that the FCF be strengthened by (1) lengthening the job adverti
 
 This  will  ensure  that  Singaporean  workers  are  given  priority  for  job positions that are eligible for EPs.
 
-<!-- image -->
-
 ## (3)  Introduce  an  Employment Pass (EP) quota on a percompany basis with higher quotas for SMEs
 
 The  PSP  proposes  that  quotas  for  Employment  Pass  (EP)  holders  be introduced on a per-company basis. The EP quotas should differ based on the size of the company, with smaller companies being allowed to hire a larger proportion of their workforce on EPs.
@@ -418,8 +342,6 @@ Currently, no quotas are set for EP holders. The Government believes that settin
 We believe that we can still be welcoming to global talent even with quotas  for  highly-skilled  workers.  It  is  important  to  introduce  an  EP quota to level the playing field between our small population and the huge global talent pool of skilled workers who are competing for the same  well-paying  skilled  jobs  in  Singapore.  Even  with  EP  quotas, companies  are  still  able  to  access  a  global  talent  pool,  and  hire qualified and skilled foreign workers.
 
 Additionally,  we  recognise  that  many  Small  and  Medium  Enterprises (SMEs) face difficulties in accessing the skilled foreign manpower that they  need.  To  support  the  growth  of  SMEs  and  enable  them  to  hire sufficient  skilled  foreign  manpower  for  their  business  needs,  we  will provide  them  with  higher  quotas  for  EP  holders.  However,  these additional quotas will only apply to bona fide SMEs. They will not apply to  employers  of  record,  third-party  organisations,  or  contractors  that act as the legal employer for a company's employees.
-
-<!-- image -->
 
 ## (4) Introduce an EP levy of $1,200 per month
 
@@ -435,8 +357,6 @@ As  of  1  January  2025,  the  Minimum  Qualifying  Salary  (MQS)  for  EP hold
 
 The  PSP  proposes  that  the  MQS  for  all  EP  holders  be  increased  to $10,000 per month.
 
-<!-- image -->
-
 ## (6)  Limit  the  concentration of work pass holders from a single nationality for every company to minimise the risk of discriminatory practices at the workplace
 
 The PSP proposes that the Government impose diversity quotas on a per-company basis (i.e. limits on the total percentage of a company's workforce from a single foreign nationality).
@@ -451,8 +371,6 @@ Non-compete  clauses  (also  known  as  restraint  of  trade  clauses)  are ofte
 
 Such clauses can create difficulties for employees who are retrenched, through no fault of their own, when they seek to find a new job after retrenchment. It is unfair to the employee if they are forced to find a new job due to a business decision made by the company and yet are further restricted in their job options due to non-compete clauses.
 
-<!-- image -->
-
 ## (8) Create statutory retrenchment  benefits that are legally binding
 
 The  PSP  calls  on  the  Government  to  work  with  tripartite  partners  to entrench retrenchment benefits into law.
@@ -464,8 +382,6 @@ The  Advisory  also  states  that  the  quantum  of  retrenchment  benefit depen
 The PSP believes that employees with 2 years' service or more should be paid at least 2 weeks' salary per year of service, by law. To reduce the  burden  on  companies,  we  could  consider  exempting  smaller companies  with  fewer  employees  and  companies  that  are  entering receivership or declaring bankruptcy from these provisions.
 
 We  believe that statutory retrenchment benefits will strengthen protections  for  employees  and  ensure  that  retrenchments  are  truly intended as a cost-saving measure of last resort.
-
-<!-- image -->
 
 ## (9) Equalise parental leave
 
@@ -481,8 +397,6 @@ The PSP  repeats  our  call  for  parental  leave  to  be  shared  equally  by d
 | Government-paid paternity leave                                         | 4 weeks                                  | 4 weeks                                   |
 | Shared Parental Leave (shared equally  between both parents by default) | 10 weeks (5 weeks per parent by default) | 22 weeks (11 weeks per parent by default) |
 | Total                                                                   | 30 weeks                                 | 30 weeks                                  |
-
-<!-- image -->
 
 ## (10) Provide greater incentives for family-friendly employers
 
@@ -500,8 +414,6 @@ The  PSP  proposes  that  companies  be  allowed  to  claim  20%  of  the wages,
 
 We hope that this will incentivise more employers to create flexi-time roles and  help  workers  to  better  balance  their  work  and  family commitments.
 
-<!-- image -->
-
 ## (12) Reduce statutory working hours from 44 hours to 40 hours per week
 
 The PSP calls for the statutory number of working hours to be reduced from 44 hours per week to 40 hours per week to better support worklife balance and allow lower-wage workers to be entitled to more hours that are paid at the overtime rate.
@@ -509,8 +421,6 @@ The PSP calls for the statutory number of working hours to be reduced from 44 ho
 Currently,  the  statutory  number  of  working  hours  per  week  is  44,  for workers  covered  under  Part  4  of  the  Employment  Act  1968.  Such workers  include  workmen  (doing  manual  labour)  earning  a  monthly basic salary of $4,500 or less and non-workmen earning a monthly basic salary of $2,600 or less. Work in excess of 44 hours per week must be paid at the overtime rate, which is at least 1.5 times the hourly basic rate of pay.
 
 If the statutory number of working hours is reduced, workers could be entitled to more overtime pay. For workers earning an hourly wage, the Government  should  work  with  tripartite  partners  to  ensure  that  the reduction  in  statutory  hours  does  not  result  in  a  reduction  in  the worker's overall salary. For example, if a worker was working 44 hours per week at $10 per hour, their salary should be increased to $11 per hour if their total working hours are reduced from 44 hours to 40 hours per week.
-
-<!-- image -->
 
 ## (13) Increase minimum paid annual leave to 14 days per year for all workers
 
@@ -522,8 +432,6 @@ As of 2023, the mean number of days of paid annual leave provided to full-time r
 
 An increase in the minimum number of paid annual leave will especially benefit lower-wage workers, who have a lower median number of days of paid annual leave, and better support all workers in balancing their work and personal needs.
 
-<!-- image -->
-
 ## (14) Increase number of public holidays from 11 to 14
 
 In  1968,  in  order  to  ensure  Singapore's  economic  viability  after  the departure of the British Armed Forces, the number of public holidays was  reduced  from  16  to  11.  At  the  time,  then-Minister  for  Law  and National Development E.W. Barker said, 'if our island prospers, I am sure the Government will ask me to come back here and on that day it will  be  my  pleasure  to  move  amendments  to  increase  the  number  of holidays.'
@@ -534,14 +442,6 @@ The  PSP  proposes  that  the  number  of  public  holidays  be  increased from 
 
 More public  holidays  will  benefit  all  workers  and  help  them  maintain work-life balance.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 ## (15) Implement the 'right to disconnect'
 
 The PSP proposes that a 'right to disconnect' policy be progressively introduced.
@@ -551,8 +451,6 @@ With  the  rise  in  digital  communications,  it  has  become  increasingly dif
 A 'right to disconnect' policy will provide employees with the right to refuse to monitor work-related communications outside of work hours. Such  work-related  communications  would  include  emails,  texts,  and phone  calls  from  employers,  colleagues,  and  third  parties  such  as clients and suppliers. Employers would still be allowed to communicate with employees in the case of emergencies.
 
 Under our proposal, the 'right to disconnect' could first be introduced for employees on paid leave. This could eventually extend to the right to  disconnect  between  7pm  and  7am  or  outside  the  normal  working hours of the employee.
-
-<!-- image -->
 
 ## SOCIAL SAFETY NET
 
@@ -566,8 +464,6 @@ However,  many  gaps  still  remain.  Retirement  adequacy  remains  a worry for
 
 In this section, PSP will present our proposals to help strengthen the social safety net for Singaporeans.
 
-<!-- image -->
-
 ## (1)  Simplify  the  existing  multiple  overlapping  support scheme system to a few national schemes
 
 The  PSP  calls  on  the  Government  to  simplify  the  existing  support scheme system, which has multiple overlapping support schemes, to a few national schemes that can achieve the same objectives of supporting Singaporeans who need help.
@@ -575,8 +471,6 @@ The  PSP  calls  on  the  Government  to  simplify  the  existing  support schem
 There  are  currently  about  60  support  schemes  and  services  to  help Singaporeans,  and  slightly  more  than  half  of  those  schemes  require applications.  Schemes  requiring  applications  include  the  Community Health Assist Scheme, Public Transport Voucher Scheme, and ComCare Long Term Assistance.
 
 This results in a confusing support scheme system that is challenging to navigate. Such an approach also comes with high administrative costs because external help may be needed to navigate through the maze of eligibility rules. This is especially so for those Singaporeans who are less proficient in English, or do not have the time or energy to determine which schemes they qualify for.
-
-<!-- image -->
 
 ## (2) Provide Government-paid  allowance for full-time caregivers of Singapore Citizen children below age 7
 
@@ -590,17 +484,12 @@ Under such a scheme, a 35-year-old full-time homemaker would receive $1,000 in  
 
 We  estimate  that even if every eligible household  claimed this allowance, this would cost no more than $2.5 billion per year.
 
-<!-- image -->
-
 ## (3) Double Silver Support Scheme payouts
 
 The Silver  Support  Scheme supports Singapore Citizens aged 65 and above, who had low incomes during their working years and now have less in retirement. The  scheme  currently  provides  quarterly cash payments of $215 to $1,080, equating to $72 to $360 per month.
 
 The PSP calls for the quarterly cash payouts under the Silver Support Scheme to be doubled to $430 to $2,160 (equating to $144 to $720 per  month),  depending  on  HDB  flat  type  and  monthly  per  capita household income. This would better support recipients in living out a dignified retirement.
 
-<!-- image -->
-
-<!-- image -->
 
 ## (4) Ensure that Pioneer Generation and Merdeka Generation Funds are fully utilised
 
@@ -614,8 +503,6 @@ For  transparency,  the  PSP  urges  the  Government  to  publish  the  sum tota
 
 We also call on the Government to ensure that the PG Fund and MG Fund  are  fully  utilised  over  the  lifetime  of  the  funds,  and  to  make adjustments to the Pioneer Generation Package and Merdeka Generation Package where necessary to ensure this.
 
-<!-- image -->
-
 ## (5) Set up  the  CPF  Lifetime  Retirement  Investment Scheme
 
 In  2016, the CPF Advisory Board recommended the introduction of a new Lifetime Retirement Investment Scheme (LRIS), a recommendation which  was  accepted  by  the  Government.  The  PSP  calls  on  the Government to set up the LRIS as soon as possible.
@@ -625,8 +512,6 @@ Under the LRIS, CPF members would be allowed to invest some of their CPF  saving
 The LRIS would be an additional option for CPF members to grow their investable CPF savings and potentially earn higher returns. According to  statistics  published  by  the  US  Department  of  Labor,  401(k)  plans returned about 6-10% per annum when the rate of return is assessed over a five-year period.
 
 While  the  returns  each  year  will  be  much  more  volatile  than  a  fixed interest  rate  from  CPF,  it  should  be  possible  to  earn  a  higher  return through  the  Lifetime  Retirement  Investment  Scheme  over  30  or  40 years. The LRIS can also help grow Singapore's local fund management industry and reduce the number of Singaporeans that are over-invested in property.
-
-<!-- image -->
 
 ## (6) Expand the use of MediSave
 
@@ -639,8 +524,6 @@ The PSP calls for withdrawal limits under the MediSave 500/700 scheme to be incr
 The PSP also calls on the Government to expand the use of MediSave by  expanding  the  range  of  outpatient  treatments  that  are  covered under  MediSave,  such  as  basic  preventive  and  non-aesthetic  dental treatments that do not involve surgery, such as root canal treatments, crowning,  and  denturing.  Many  preventive  dental  procedures  can  be expensive and are generally not claimable under the MediSave scheme.
 
 The Government has recognised that oral health is an integral part of overall health and wellbeing. In Budget 2025, the Government extended CHAS subsidies for basic and preventive dental procedures to  CHAS  Orange  cardholders.  Expanding  the  MediSave  scheme  to cover  preventative  dental  procedures  will  help  Singaporeans  better cope with the rising out-of-pocket costs of such treatments.
-
-<!-- image -->
 
 Additionally,  the  PSP  proposes  to  allow  maternity  and  child-bearing medical fees to be fully claimable from MediSave without limit, and to allow women to use MediSave for elective egg freezing procedures.
 
@@ -656,8 +539,6 @@ Government co-funding should be provided for an unlimited number of ART cycles  
 
 For  women  from  age  40  to  45,  Government  co-funding  should  be provided for three fresh and three frozen ART cycles.
 
-<!-- image -->
-
 ## (8) Strengthen support for mental health services
 
 More  can  be  done  to  strengthen  support  for  mental  health  and psychological  services.  The  PSP  proposes  to  provide  greater  financial support for those seeking help with their mental health.
@@ -670,8 +551,6 @@ We  also  call  on  the  Government  to  increase  the  number  of  mental healt
 
 With rising  societal  pressures  and  mental  health  conditions  becoming increasingly prevalent, it is vital for the Government to improve access to mental health services in the public healthcare system.
 
-<!-- image -->
-
 ## EDUCATION
 
 In  many respects, Singapore's education system is the envy of the world.  Our  students  were  ranked  No.  1  for  mathematics,  science and reading in the Programme for International Student Assessment (PISA)  2022,  a  study  conducted  by  the  Organisation  for  Economic Cooperation and Development (OECD).
@@ -682,15 +561,11 @@ The PSP believes that systemic changes to our education system are required to e
 
 Our education system should also be flexible enough to allow entry and exit points throughout an individual's formal educational journey,  with  SkillsFuture  coming  into  play  seamlessly  once  the individual  enters  the  workforce,  so  that  the  goal  of  self-directed lifelong learning becomes integral to Singapore's education philosophy.
 
-<!-- image -->
-
 Additionally, we must do more to ensure that opportunities in our education  system  remain  open  to  every  Singaporean  student, regardless of how wealthy or well-educated their parents are.
 
 Our education system should be a social leveller, and not entrench social stratification or an elitist culture.
 
 In  this  section,  the  PSP  will  share  our  policy  proposals  on  how  the education system can be improved to be more holistic and to better support Singaporeans in achieving their best.
-
-<!-- image -->
 
 ## (1) Introduce a 10-year through-train programme (where taking PSLE is optional)
 
@@ -704,8 +579,6 @@ Furthermore,  the  10-year  through-train  programme  will  allow  us  to provid
 
 Under  our  current  primary  school  system,  students  are  offered  nine subjects,  but  only  four  are  assessed  in  the  PSLE.  Art,  Music,  Physical Education, Social Studies, and Character and Citizenship Education are not.  Such  treatment  skews  time  and  effort  towards  the  four  core subjects that are tested at the PSLE: English Language, Mother Tongue Language, Mathematics, and Science.
 
-<!-- image -->
-
 A  10-year  through-train  programme  would  enable  all  subjects  to  be equally  emphasised  at  the  primary  school  level.  It  would  also  allow students  to  better  develop  themselves  in  the  arts,  humanities,  and sports,  which  are  areas  that  are  currently  not  tested  at  the  PSLE  and arguably given less attention by students and parents today.
 
 A through-train programme does not mean that students will not have to  sit  for  any  academic  assessments.  Under  the  pilot  programme, internal school examinations will continue to provide regular academic checkpoints for students.
@@ -713,8 +586,6 @@ A through-train programme does not mean that students will not have to  sit  for
 If, at any point before the PSLE, students or their parents feel that their needs are not being met by the through-train programme and wish to return  to  the  PSLE  track,  they  should  be  provided  with  the  option  of transferring  back  to  the  PSLE  track  at  another  school  based  on  their internal school examination results.
 
 A  10-year  through-train  programme  would  be  a  game-changer  for students and parents. If primary school students do not have to spend many months preparing for a major examination like the PSLE, we can direct  their  energies  toward  a  more  holistic  development  and  better equip them to thrive in a more complex world.
-
-<!-- image -->
 
 ## (2) Allow for a range of school sizes, not just big schools
 
@@ -725,8 +596,6 @@ The  PSP  calls  on  the  Government  to  re-evaluate  whether  schools should b
 Under such a system, families can then choose from a variety of schools that best fit their children's profiles. Some schools could offer non-PSLE routes;  others  can  allow  neurotypical  and  neurodivergent  children  to study together.
 
 Smaller  schools  also  have  their  benefits,  such  as  creating  a  stronger sense  of  community  and  belonging  for  students,  and  could  be  safe havens for children whose needs go unaddressed in big spaces and big class  sizes,  as  they  allow  for  deeper  connections  between  staff  and students.
-
-<!-- image -->
 
 ## (3) Overhaul the role of assessments in education
 
@@ -740,8 +609,6 @@ To enable our students to succeed in a rapidly changing and increasingly  comple
 
 The PSP believes that  we  need  to  reduce  the  reliance  on  summative examinations  in  assessing  the  performance  of  students.  We  should increase the role of alternative assessment methods such as portfolios and  projects.  Such  alternative  assessment  methods  help  students  to acquire  the  skills needed  to  adapt  to  change  and  stay  relevant throughout their working lives, and also reduce the impact of failure.
 
-<!-- image -->
-
 ## (4) Reduce class sizes
 
 The  PSP  calls  for  smaller  class  sizes  in  order  to  introduce  greater opportunities for diversity and differentiated learning into our education system.
@@ -754,8 +621,6 @@ The PSP also calls on the Government to create more opportunities for older teac
 
 The Government should also look into using technology to streamline teachers'  administrative  duties  so  that  they  can  devote  more  time  to teaching students.
 
-<!-- image -->
-
 ## (5)  Enhance  mental  health  and  well-being  for  students and teachers
 
 In  2021  and  2024,  the  PSP  called  on  the  Government  to  implement measures  to  monitor  our  students'  mental  well-being  regularly  and systematically, in the  same  way  that  academic  achievements  and physical fitness are monitored every year. We repeat this call today.
@@ -763,8 +628,6 @@ In  2021  and  2024,  the  PSP  called  on  the  Government  to  implement measu
 The PSP believes that conducting a mental health assessment each year using developed tools will guide teachers in identifying students who need  help  and  allow  professionals  to  proactively  reach  out  to  them. This is especially crucial to prevent tragic incidents from occurring, as only 1.5% of students approach their school counsellors for help in each year  since  2020.  Currently,  two-thirds  of  all  schools  have  only  one trained  school  counsellor.  The  PSP  believes  that  there  should  be  a minimum of two school counsellors per school.
 
 Teachers' mental and emotional well-being should also be a focus area. The  Government  should  implement  annual  feedback  mechanisms  for MOE teachers that are conducted by an external organisation, where explicit  questions  relating  to  workload  and  burnout,  such  as  'why would you stay' and 'why would you leave', should be asked.
-
-<!-- image -->
 
 ## (6)  Reduce  tuition  grants  and  scholarships  to  foreign students
 
@@ -776,8 +639,6 @@ The PSP does not advocate for a policy of zero international students at our AUs
 
 Full fee-paying  international  students  are  an  important  source  of revenue for universities  in  countries  such  as  the  UK  and  Australia.  As our AUs progress in global rankings, we should develop this source of revenue and use it to further subsidise the education of local students.
 
-<!-- image -->
-
 ## (7) Review the number of university places for Singaporeans
 
 The  PSP  agrees  with  the  Government  that  no  Singaporean  student should  ever  be  displaced  from  an  Institute  of  Higher  Learning  (IHL), including our Autonomous Universities (AUs), because of an international student.
@@ -788,11 +649,7 @@ Additionally, even though the number of IHL places are planned with Singaporean 
 
 We believe that our AUs should always have sufficient places to cater to demand  from  Singaporean  students,  without  compromising  on  the quality of education and the rigour of the curriculum.
 
-<!-- image -->
-
 ## (8) Expand on non-academic-based pathways university admission
-
-to
 
 The PSP calls  for  the  expansion  of  non-academic  and  vocation-based pathways  to  university  admission.  We  recognise  that  vocational  and skills-based pathways are just as important as academic pathways, and we are encouraged to see that Singapore is recognising the value of a vocational education.
 
@@ -801,8 +658,6 @@ While the Government has attempted to create recognition of vocational  skill-se
 We can expand the WSQ programme, such that WSQ qualifications can provide sufficient training and experience to be recognised as a valid credential  to  meet  admission  requirements  for  our  local  universities. This could be  similar to the federal vocational baccalaureate in Switzerland, which provides access to universities without the need for an entrance exam.
 
 We believe that this will better enable Singaporeans to up-skill, even if they have not gone through the traditional academic pathways.
-
-<!-- image -->
 
 ## GOVERNANCE
 
@@ -816,15 +671,11 @@ For example, some state institutions which are independent in other countries,  
 
 On  top  of  these  concerns  over  transparency  and  accountability, fresh  concerns  over  competence  in  policy  execution  have  recently arisen  on  the  backs  of  costly  mistakes.  These  range  from  the outbreak of Covid-19 in migrant worker dormitories in mid-2020, the use of TraceTogether data for police investigations despite assurances to the contrary, the reversal of LTA's decision to switch to  SimplyGo  after  adverse  public  feedback,  to  the  saga  over  the unmasking of National Registration Identity Card (NRIC) numbers in December 2024.
 
-<!-- image -->
-
 The PSP believes that good governance requires strict adherence to our Constitution, which is the supreme law of the land that governs all other pieces of legislation in Singapore.
 
 To ensure that  the  Constitution  cannot  be  amended  by  the  ruling party at will, we need to ensure that more than one-third of seats in Parliament  are  occupied  by  Opposition  MPs.  For  this  General Election,  this  means  that  we  need  to  elect  at  least  33  Opposition MPs.
 
 In this section, we  put forth policy proposals to strengthen governmental  accountability  and  policy  outcomes  in  Singapore. Taken together, these changes will enhance our never-ending march to build a democratic society, based on justice and equality, which our National Pledge calls on us to do.
-
-<!-- image -->
 
 ## (1) Reform of ministerial salaries
 
@@ -840,8 +691,6 @@ Such  declarations  are  already  being  done  in  other  Commonwealth jurisdict
 
 PSP's proposed reform would help to reinforce public confidence in our anti-corruption  regime  by  addressing  any  concerns  in  any  quarters about unexplained wealth or possible corruption.
 
-<!-- image -->
-
 ## (3) Increase  accountability  for  our  Sovereign  Wealth Funds (SWFs): Temasek and GIC
 
 The PSP proposes that representatives of Temasek and the Government of Singapore Investment Corporation (GIC) be subject to regular,  closed-door hearings by Members of Parliament (MPs) sitting on  one  of  the  relevant  bipartisan  Parliamentary  standing  committees, subject  to  the  Official  Secrets  Act  1935  to  protect  commerciallysensitive secrets.
@@ -853,8 +702,6 @@ However, Temasek and GIC manage public monies, unlike private funds who are  acc
 Private,  closed-door  hearings  of  Temasek  and  GIC  representatives  by MPs would provide MPs with the opportunity to raise questions on the performance  of  these  two  companies  relative  to  reasonable  global benchmarks, as well as their performance on governance, risk management and ethics metrics.
 
 For  example,  at  the  closed-door  hearings,  questions  could  be  asked about the performance of Temasek relative to US stock market indices and the Norwegian sovereign wealth funds, as well as the substantial share  of  equity  in  non-listed  companies  within  Temasek's  portfolio. Summaries of these hearings could then be published publicly.
-
-<!-- image -->
 
 The  PSP  further  proposes  that  the  salaries  of  senior  management  at Temasek and GIC be published  in  ranges,  in  lines  with  best  practice requirements  set  for  SGX-listed  companies.  This  will  ensure  that  our SWFs achieve the same level of transparency as SGX-listed companies.
 
@@ -872,8 +719,6 @@ Currently, only a small percentage of documents that are older than 25 years are
 
 The  PSP  calls  for  all  documents  that  are  older  than  25  years  to  be automatically declassified unless there are legitimate reasons, such as national security. Such documents should then be made available upon request to all citizens.
 
-<!-- image -->
-
 ## (6) Media reform
 
 The  PSP  calls  for  reforms  to  the  media  regime  to  foster  diversity, balance and healthy competition.
@@ -888,8 +733,6 @@ The regime for granting licences for the production and distribution of broadshe
 
 The market should be the main arbiter of which print newspapers reach Singaporeans. This would be subject to oversight by a new independent press standards committee.
 
-<!-- image -->
-
 This independent press standards committee should be appointed and funded by Parliament, with committee members serving fixed terms of 5 years and shielded from interference from all political figures.
 
 This independent press standards committee would handle complaints on  journalistic  reporting  accuracy,  fairness  and  ethics.  In  addition,  it would enforce a code of journalistic integrity approved by Parliament. This  code  should  include  the  clear  public  labelling  of  paid/sponsored content, as well as prohibitions against foreign interference and the use of executive  power  or  other  forms  of  non-transparent  power  to influence media reporting.
@@ -900,8 +743,6 @@ We  should  remove  the  requirement  for  Government  approval  for company  di
 
 Government  grants  should  be  directed  to  proactively  nurture  new, high-quality  digital  local  home-grown  media  start-ups,  so  as  to  foster diversity and healthy competition in the media landscape. There have been examples of such local media start-ups in recent years, and they would  benefit  from  government  funding.  Various  government  bodies routinely provide such grants to start-ups across a range of industries, and it would not be new to extend them to the media industry.
 
-<!-- image -->
-
 ## (7)  Reform  the  Protection  from  Online  Falsehoods  and Manipulation Act 2019
 
 The PSP calls for reforms to the Protection from Online Falsehoods and Manipulation Act 2019 (POFMA) to ensure transparency, accountability and fairness. We repeat our call that the power to declare statements as  false  and  to  order  Directions  under  POFMA  be  vested  in  the Judiciary instead of the Government, and that POFMA should be used only  in  cases  where  there  is  a  deliberate  campaign  to  perpetuate falsehoods.
@@ -911,8 +752,6 @@ While the PSP agrees that the Government should have powers to act fast  to  pre
 Prior to the enactment of POFMA, the Government had various levers to  enforce  its  right  of  reply  to  reports  published  by  the  news  media, through the Newspaper and Printing Presses Act 1974 and accreditations  for  news  journalists.  With  the  rise  of  the  internet  and social media, the Government continues to have the ability to issue a right of reply to online articles, albeit without the right to have its reply published by the same entity that issued the initial article.
 
 The PSP's view is that post-enactment, POFMA has had a chilling effect on free speech. POFMA does not provide objective criteria explaining how a statement is determined to be false or misleading, and many are wary  of  expressing  their  views  publicly  for  fear  of  running  afoul  of POFMA.
-
-<!-- image -->
 
 While  unfettered  free  speech  can  be  potentially  detrimental  to  a society, any limits placed on Singaporeans' Constitutional right to free speech must be carefully calibrated to balance one's right to express one's views and the undoubted benefits of the free exchange of ideas, opinions  and  views  without  fear  of  retaliation,  censorship  or  legal sanction against the need to stop the deliberate spread of falsehoods.
 
@@ -926,15 +765,13 @@ We  strongly  believe  in  the  need  for  multi-racial  representation  in Parl
 
 In the 14th Parliament from 2020 to 2025, there were six vacancies that were unfilled because the Members of Parliament who resigned were elected from GRCs. No by-elections were held to fill these vacancies, because by-elections are not required where a vacancy arises in a GRC. While this prevents any individual MP in a GRC from holding the other MPs in the same GRC to ransom by resigning, it also has the effect of depriving  residents  in  these  GRCs  of  their  elected  representative  in Parliament, which is highly undesirable given our system of representative democracy.
 
-<!-- image -->
-
 The PSP proposed 2 possible alternatives to the GRC system in 2023:
 
-## 1.  An  NCMP  scheme  for  minorities,  similar  to  the  current  NCMP scheme for opposition candidates.
+### 1.  An  NCMP  scheme  for  minorities,  similar  to  the  current  NCMP scheme for opposition candidates.
 
 Under  this  scheme,  all  constituencies  revert  to  being  SMCs,  and minority  candidates  will  contest  in  SMCs  just  like  other  candidates.  If not enough minority candidates are elected, minority candidates who did not win but had the highest percentage of votes can be appointed NCMPs to ensure adequate minority representation in Parliament.
 
-## 2. A hybrid electoral system containing both elements of First-PastThe-Post (FPTP) and Proportional Representation.
+### 2. A hybrid electoral system containing both elements of First-PastThe-Post (FPTP) and Proportional Representation.
 
 Under this system, each voter will have two ballots instead of one. A proportion  of  Parliamentary  seats  can  be  filled  using  the  party  list system while others can be filled using our existing FPTP system.
 
@@ -943,8 +780,6 @@ The  first  ballot  will  be  to  vote  for  a  candidate  in  a  local  SMC.  T
 The second ballot will be to vote for a party at the national level. Each political party will put forth a list of candidates for election. Voters vote for  their  desired  political  party.  Seats  are  then  allocated  to  each political  party  based  on  their  national  vote  share,  e.g.  a  party  that obtains 10% of the national votes will be allocated 10% of the seats.
 
 Each party list must be multi-racial with minimum racial representation requirements for each party list (e.g. at least 50% Chinese, 12% Malay, and 6% Indian/Other).  Based  on  the  seats  allocated,  each  party  then selects the candidates on its party list to take up the seats.
-
-<!-- image -->
 
 ## (9) Reform how electoral boundaries are determined
 
@@ -962,8 +797,6 @@ The PSP  made  the  following proposals to reform the electoral boundaries revie
 
 Under  the  PSP's  proposal,  major  boundaries  are  meant  to  remain unchanged for many elections. Each region bound by major boundaries could  contain  one  or  two  GRCs  and  a  few  SMCs.  These  major boundaries could take reference from existing HDB town boundaries, URA planning area boundaries and postal district boundaries.
 
-<!-- image -->
-
 The PSP proposes that major boundaries cannot be changed unless the changes  are  agreed  to  by  a  bipartisan  committee  comprising  equal numbers  of  representatives  from  the  ruling  party  and  other  political parties that have won at least 5% of the national vote at the previous GE. The minor boundaries of GRCs and SMCs within a major boundary can be adjusted by the EBRC to reflect population changes.
 
 We believe  that  these  reforms  would  strengthen  our  political  system and ensure that fairer outcomes from our electoral system for all voters.
@@ -978,8 +811,6 @@ PA is a statutory board that manages Singapore's community clubs and grassroots 
 
 Even though the PA is politically neutral and does not conduct activities with any political party, it appoints Grassroots Advisers at the constituency level who are typically either Members of Parliament from the  ruling  party  or  candidates  from  the  ruling  party  who  lost  the election in that constituency.
 
-<!-- image -->
-
 The PA and its grassroots organisations (such as the Community Club Management Committees, Residents' Committees, and Citizens' Consultative Committees) do not frequently work with Opposition MPs in  their  capacity  as  MP  on  public  events  and  programs.  It  is  the appointed  Grassroots  Adviser  who  is  allowed  to  organise  community events with PA.
 
 The  Government  makes  available  funds  to  all  town  councils for community  improvement  upgrading  projects,  but  the  use  of  these funds must be considered by the Grassroots Advisers. In constituencies held  by  the  ruling  party,  the  MP  and  the  Grassroots  Adviser  are  the same  person,  but  this  is  not  the  case  in  constituencies  held  by  the Opposition.
@@ -989,8 +820,6 @@ Such a policy helps to build political capital for the ruling party during const
 This makes for neither fair politics nor optimal fostering of 'one united people' regardless of political affiliation.
 
 The  removal  of  all  politicians  from  the  PA's  organisational  structure means that it  can  better  address  its  mission  of  building  social  capital devoid of any perception of politicisation.
-
-<!-- image -->
 
 ## (11) Enact  a law  to mandate  Environmental  Impact Assessments before major development works
 
@@ -1008,8 +837,6 @@ The vast  majority  of  the  world's  electoral  democracies  set  the  voting a
 
 Furthermore, many male Singaporeans begin serving National Service at  the  age  of  18.  It  is  unacceptable  that  we  entrust  18-year-olds  with the  defence  of  Singapore,  but  not  the  right  to  vote  to  choose  their government and elected representatives.
 
-<!-- image -->
-
 ## (13) Forming a Parliament Research Service
 
 The PSP proposes the creation of a Parliament Research Service (PRS) to support the Parliamentary work of both Opposition and ruling party backbench  Members  of  Parliament  (MPs),  as  is  the  case  in  other democracies. Experienced researchers from other government departments and Ministries, such as the Singapore Legal Service or the Department of Statistics, could be seconded to work in the PRS.
@@ -1024,8 +851,6 @@ The  PSP  proposes  the  creation  of  permanent  bipartisan  standing committee
 
 Such  standing committees  should  have  two  calendar months  to scrutinise legislation between First and Second Readings in Parliament, with  exceptions  made  for  Bills  that  have  the  President's  approval  for urgent passage.
 
-<!-- image -->
-
 These Parliamentary Standing Committees should also be empowered to  subpoena  the  testimony  of  expert  witnesses  and  seek  research support from the PSP's proposed Parliament Research Service.
 
 This proposal  is not new.  It has been  raised  multiple  times  by Opposition  MPs  in  Parliament.  Similar  committees  can  be  found  in many other democracies, where they are seen as a vital ingredient in the legislative process.
@@ -1037,8 +862,6 @@ Such reforms are required for the following reasons:
 - MPs  are  also  not  empowered  to  subpoena  expert  witnesses  to share their inputs with them on pending legislation. 3.
 - Moreover,  MPs  generally  do  not  receive  an  advance  copy  of  the Second Reading speeches that Ministers make to provide context on the legislation being debated. MPs  have  to revise their speeches  posing  questions  and  concerns  immediately  after  the Minister's Second Reading speech. 4.
 
-<!-- image -->
-
 ## (15) The Speaker of Parliament should be non-partisan
 
 The  PSP  repeats  our  call  that  the  Speaker  of  Parliament  be  a  nonpartisan figure.
@@ -1047,17 +870,7 @@ During the debate on our Parliamentary motion filed in August 2023, the PSP argu
 
 Prior to 1970,  all Speakers  of  Parliament  had  been  non-partisan members of the legal profession, with the exception of a brief period between  1963  and  1964  when  Mr  E.W.  Barker,  a  PAP  member,  was Speaker. By having a non-partisan Speaker, we would return to earlier traditions practised before the PAP  achieved  a  supermajority in Parliament in the late 1960s.
 
-<!-- image -->
-
 ## FOR COUNTRY FOR PEOPLE
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 Progress Singapore Party
 

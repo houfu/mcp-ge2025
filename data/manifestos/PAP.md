@@ -1,30 +1,16 @@
-# Changed World
+# Changed World Fresh Team New Resolve Securing a Brighter Future for You
 
-# Fresh Team
 
-# New Resolve
+I am determined to keep this miracle called Singapore going for as long as possible. I will not gamble with your future. I will build on the foundations laid by those before me, to stay ahead of the changes unfolding around us.
 
-## Securing a Brighter Future for You
+I will continue to renew our team, to bring in committed and capable people who share the same sense of mission and passion to serve.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
+To serve you and Singapore, we need your support. I need your support.
 
-Select your preferred language
+- Lawrence Wong, PAP Secretary-General
 
-- 华语
-- Melayu
-- தமிழ்
 
-### I am determined to keep this miracle called Singapore going for as long as possible. I will not gamble with your future. I will build on the foundations laid by those before me, to stay ahead of the changes unfolding around us.
-
-### I will continue to renew our team, to bring in committed and capable people who share the same sense of mission and passion to serve.
-
-### To serve you and Singapore, we need your support. I need your support.
-
-##### - Lawrence Wong, PAP Secretary-General
-
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
-
-#### This Manifesto Is Our Promise To You
+# This Manifesto Is Our Promise To You
 
 It reflects your hopes, concerns and aspirations,
 
@@ -36,9 +22,7 @@ We will serve you, support you, stand with you.
 
 We will always put you at the centre of all we do.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
-
-#### Our Journey With You
+# Our Journey With You
 
 For over 60 years, the People’s Action Party (PAP) has worked with you, and for you.
 
@@ -46,27 +30,23 @@ Together, we have transformed Singapore and uplifted the lives of generations.
 
 Together, we have made Singapore an endearing home and an oasis of peace and harmony.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 
-#### The World Is Changing...
+# The World Is Changing...
 
 Global changes are taking place. The implications for the world economy, international security and Singapore are profound.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 
-#### We Are Entering A New Phase
+# We Are Entering A New Phase
 
 SG60 marks a new phase of nation building. This is an opportunity to refresh our social compact and our Singapore Dream.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 
-#### Our Commitment
+# Our Commitment
 
 We know your concerns, including cost of living, jobs and homes. The PAP will work with you to overcome these and future challenges, and build a better future for all.
 
-<!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 
-#### Forward Together
+# Forward Together
 
 Through engagements like Forward Singapore, you have shared with us what matters to you. This manifesto sets out how we will put your hopes and aspirations into action.
 
@@ -74,7 +54,7 @@ Together, we can turn our dreams into reality!
 
 # Our Manifesto, Our Promise
 
-#### A Dynamic Economy –Opportunities For All
+# A Dynamic Economy –Opportunities For All
 We want a Singapore where opportunities abound, and there is pride and recognition in every job. In the past five years, we have recovered from the Covid pandemic, made incomes more equal, and enabled Singaporeans to earn more.
 
 We will grow a dynamic economy that generates jobs and opportunities for all.
@@ -97,7 +77,7 @@ We will:
 * make it easier for businesses to access manpower and capital
 * help companies expand into new markets
 
-#### More Pathways – More Fulfilled Dreams
+# More Pathways – More Fulfilled Dreams
 
 Our education system is robust. Still, intense competition can lead to pressure and stress. Hence our major changes to focus on the joy of learning and to help every child discover and develop their strengths. We have replaced streaming with subject-based banding, and revamped the PSLE scoring system and the Gifted Education Programme.
 
@@ -123,7 +103,7 @@ We will do more to:
 * help companies redesign jobs and invest in worker training
 * help Singaporeans who have lost their jobs to bounce back with the SkillsFuture Jobseeker Support Scheme
 
-#### For Every Singaporean – The Support That You Need
+# For Every Singaporean – The Support That You Need
 
 Like many other countries, Singapore faces cost pressures, driven by wars and supply chain disruptions. But we have actively shielded Singaporeans from these rising costs.
 
@@ -146,7 +126,7 @@ To build a more inclusive Singapore for Persons with Disabilities (PwDs), we wil
 * subsidise adult disability services more generously
 * pilot community living models to offer more choices for independent living
 
-#### For Seniors – Financial Security And Peace Of Mind
+# For Seniors – Financial Security And Peace Of Mind
 
 
 Seniors should enjoy their golden years with financial security and peace of mind. To support our seniors, we created the Majulah Package, and enhanced the Workfare Income Supplement and Silver Support Scheme.
@@ -171,7 +151,7 @@ To care for seniors in their golden years, we will:
 * develop new models of care for those who wish to age in place
 * strengthen support for caregivers, the unsung heroes in our families
 
-#### Affordable Healthcare – Better Health
+# Affordable Healthcare – Better Health
 
 Health is precious. We want Singaporeans to enjoy good physical and mental health throughout life.
 
@@ -194,7 +174,7 @@ We will boost support for mental health with:
 * more access to mental health services
 * capability building and expansion of hospital and long-term care capacity
 
-#### More Affordable Public Housing – More Choices For Singaporeans
+# More Affordable Public Housing – More Choices For Singaporeans
 
 
 Every Singaporean will always have the opportunity to own a high quality, affordable home. Our building programme was set back by the Covid pandemic. But we are on track to launch 100,000 new HDB flats between 2021 and 2025, as we had promised.
@@ -216,7 +196,7 @@ The new HDB classification framework – Standard, Plus and Prime BTO flats – 
 * Bayshore, with waterfront living at East Coast Park
 * Mount Pleasant, incorporating the rich heritage of the Old Police Academy
 
-#### A Vibrant City – More Sustainable Living
+# A Vibrant City – More Sustainable Living
 
 
 We have blossomed from a Garden City into a City in Nature. Now, we will make green living a way of life.
@@ -238,7 +218,7 @@ We will make commuting faster, greener and more seamless. To bring 8 in 10 house
 * build new Jurong Regional and Cross-Island Lines and extend existing lines
 * expand and improve bus services
 
-#### Arts, Culture And Sports – Everywhere For Everyone
+# Arts, Culture And Sports – Everywhere For Everyone
 
 
 We have nurtured a more thriving arts scene, and made a modest mark on the global sporting stage. Now we will take sports, arts and culture to new heights – making them more accessible and enjoyable for all.
@@ -257,7 +237,7 @@ To support and grow Singapore’s arts and culture scene, we will:
 * offer more arts spaces and support for artists
 * establish a new Museum of Design
 
-#### A More United Team – A Stronger Singapore
+# A More United Team – A Stronger Singapore
 
 
 Unity is Singapore’s greatest strength. Without unity, we would not have come this far. In a turbulent world, it is more important than ever to stand together as one people, ready to confront any challenge and build a brighter future for all.
@@ -282,7 +262,7 @@ We will refresh our social compact and do more with, and for, each other. We wil
 * increase avenues for civic participation
 * strengthen the partnership between people and government
 
-## PROMISES MADE, PROMISES KEPT
+# PROMISES MADE, PROMISES KEPT
 
 Between 2020 – 2025 we grappled with unprecedented challenges and many difficult issues as a people and a nation.
 
@@ -292,7 +272,7 @@ Together we overcame a pandemic, battled inflation, revived our economy and refr
 We could do this because of the trust between the PAP and Singaporeans.
 Here’s a look back on what we have accomplished together.
 
-## We Overcame a Global Crisis and Emerged Stronger
+# We Overcame a Global Crisis and Emerged Stronger
 
 The last electoral term began at the height of Covid-19.
 
@@ -325,7 +305,7 @@ Singapore returned to DORSCON Green in February 2023 with one of the world’s l
 Together, we emerged stronger.
 
 
-## WE GREW The Economy
+# WE GREW The Economy
 
 We turned the economy around. During the pandemic, growth was negative. Since then, we have recovered strongly. In 2024:
 
@@ -336,7 +316,7 @@ We turned the economy around. During the pandemic, growth was negative. Since th
 
 We introduced the COMPASS framework to ensure Singaporeans have fair access to employment opportunities.
 
-## WE GAVE Extensive Help for Cost of Living
+# WE GAVE Extensive Help for Cost of Living
 
 We provided extensive support to help Singaporeans cope with the spike in inflation, caused by global supply chain disruptions and the wars in Europe and the Middle East.
 
@@ -360,7 +340,7 @@ In addition, we provided:
 * Post-Secondary Education (PSEA) Top Ups for ITE, Polytechnic and University Students
 * NS LifeSG Credits for NSmen
 
-## WE RAMPED UP Support for Families
+# WE RAMPED UP Support for Families
 
 We recognised families as the bedrock of our society. We are shaping a Singapore made Families.
 
@@ -401,7 +381,7 @@ We increased support for low-income families, through:
 * reduced bus fares
 * meal subsidies and transport credits
 
-## WE MADE Major Education Reforms
+# WE MADE Major Education Reforms
 
 Between 2020 – 2025, we made major moves to reduce education stress, customise learning to students’ ability and interest, and create expanded pathways and more opportunities for our children to achieve aspirations.
 
@@ -427,7 +407,7 @@ We boosted ITE students’ progression with:
 
 For aspiring athletes, we introduced the Sports Excellence (Spex) Education Undergraduate Scholarship.
 
-## WE EXPANDED Avenues for Advancement
+# WE EXPANDED Avenues for Advancement
 
 
 Between 2020 and 2025, the jobs landscape changed dramatically.  We acted decisively to help Singaporeans build capabilities and acquire skills to take advantage of new opportunities.
@@ -446,7 +426,7 @@ We launched a suite of SkillsFuture programmes to help Singaporeans upskill and 
 * full time attachments to gain experience in new sectors
 * Career conversion programmes to help Singaporeans reskill and stay ahead
 
-## WE BOOSTED Seniors’ Retirement Adequacy
+# WE BOOSTED Seniors’ Retirement Adequacy
 
 Between 2020 and 2025 we took steps to give seniors more assurance in their golden years. We:
 
@@ -462,7 +442,7 @@ To help seniors with living expenses and retirement adequacy, we:
 * enhanced retirement savings with the Matched Retirement Savings Scheme
 * enabled seniors to save more with the higher retirement sums
 
-## WE ENHANCED Healthcare for the Elderly
+# WE ENHANCED Healthcare for the Elderly
 
 To provide for the healthcare needs of our ageing population, we:
 
@@ -483,7 +463,7 @@ We strengthened support for caregiving with:
 * cash support for severe disability under CareShield Life
 * increased Home Caregiving Grant for caregivers
 
-## We LAUNCHED 100,000 BTO Flats and improved access to public housing
+# We LAUNCHED 100,000 BTO Flats and improved access to public housing
 
 We caught up with the delays to the HDB construction schedule, which had been disrupted by the pandemic, and fulfilled our commitment to launch 100,000 new flats between 2021 – 2025.
 
@@ -508,7 +488,7 @@ We increased options and support for singles.
 
 We piloted Community Care Apartments for seniors and designed more senior-friendly HDB towns.
 
-## WE ADVANCED Women’s Development
+# WE ADVANCED Women’s Development
 
 We made good on our shared vision of a fairer and more inclusive society, where men and women interact as equals.
 

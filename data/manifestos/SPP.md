@@ -1,5 +1,3 @@
-<!-- image -->
-
 ## IT IS TIME
 
 Singapore People's Party 新加坡⼈⺠党 PARTI RAKYAT SINGAPURA சகமககச
@@ -8,15 +6,9 @@ MANIFESTO 2025
 
 ## 请扫描此⼆维码，查看中⽂竞选宣⾔。
 
-<!-- image -->
-
 Sila imbas kod QR ini untuk manifesto dalam bahasa Melayu.
 
-<!-- image -->
-
 கசஅறகககயதமிழிபகஇத QR றடடதகபசய
-
-<!-- image -->
 
 ## IT IS TIME
 
@@ -159,25 +151,13 @@ Inequality, ageing needs, and NS debates impact youth, families, and seniors, te
 
 This manifesto is a call to dialogue, reflecting SPP's dedication to a collaborative future. By addressing these 9 themes, we propose a fairer, stronger Singapore where every voice counts, and every need is met. Together, let's build a nation for all generations.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 ## DONATE
 
 Singapore People's Party
 
-<!-- image -->
-
 The SPP team will need all the support it can get as we mount a credible and competent challenge to the PAP in this 2025 General Election. The donation goes towards all campaign expenses. Every dollar counts.
 
 ## VOLUNTEER WITH US
-
-<!-- image -->
 
 ## FOLLOW US
 
